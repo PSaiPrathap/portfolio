@@ -1,70 +1,141 @@
-# Getting Started with Create React App
+# 🌐 Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive, and interactive portfolio website built with **React.js** to showcase my skills, projects, education, internship experience, certifications, and contact information. The portfolio is designed to provide recruiters and employers with a comprehensive overview of my technical expertise and professional journey.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+**Portfolio:** *https://sai-prathap-portfolio.vercel.app/*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Preview
 
-### `npm test`
+<img width="1896" height="967" alt="image" src="https://github.com/user-attachments/assets/8a7b98a6-833b-4d99-ad17-1294028ef49a" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Responsive design for Desktop, Tablet, and Mobile devices
+* Modern and interactive user interface
+* Smooth scrolling navigation
+* Animated sections using Framer Motion
+* Hero section with professional introduction
+* About Me section
+* Education timeline
+* Technical Skills with technology icons
+* Projects showcase with GitHub and Live Demo links
+* Internship Experience
+* Certifications
+* Languages
+* Contact form integrated with EmailJS
+* Social media links (GitHub, LinkedIn, Email)
+* Scroll-to-top button
+* Professional footer
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Tech Stack
 
-### `npm run eject`
+### Frontend
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Libraries
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* React Icons
+* Framer Motion
+* EmailJS
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Vercel
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📂 Project Structure
+
+```text
+src/
+│── assets/
+│── components/
+│   ├── Navbar/
+│   ├── Hero/
+│   ├── About/
+│   ├── Education/
+│   ├── Skills/
+│   ├── Projects/
+│   ├── Internship/
+│   ├── Certifications/
+│   ├── Languages/
+│   ├── Contact/
+│   └── Footer/
+│
+├── App.js
+├── index.js
+└── index.css
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/PSaiPrathap/portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+The application will run locally at:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📧 Contact
+
+**Name:** Sai Prathap Pulikodi
+
+* GitHub: https://github.com/PSaiPrathap
+* LinkedIn: https://www.linkedin.com/in/saiprathap-pulikodi/
+* Email: saiprathapaits@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Sai Prathap**
+
+Passionate **MERN Stack Developer** with knowledge of **Python** and **AWS Cloud**, focused on building scalable, responsive, and user-friendly web applications while continuously learning modern technologies.
