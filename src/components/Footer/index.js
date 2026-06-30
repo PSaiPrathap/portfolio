@@ -83,7 +83,7 @@ const Footer = () => {
       <div className="copyright">
         <p>
           © {new Date().getFullYear()} Sai Prathap.
-          Built with React <FaHeart className="heart" />
+          Built with React
         </p>
       </div>
     </footer>
