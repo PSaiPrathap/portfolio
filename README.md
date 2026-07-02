@@ -6,7 +6,7 @@ A modern, responsive, and interactive portfolio website built with **React.js** 
 
 ## 🚀 Live Demo
 
-**Portfolio:** *https://sai-prathap-portfolio.vercel.app/*
+**Portfolio:** *https://psaiprathap.vercel.app/*
 
 ---
 
