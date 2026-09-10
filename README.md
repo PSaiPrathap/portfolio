@@ -12,7 +12,7 @@ A modern, responsive, and interactive portfolio website built with **React.js** 
 
 ## 📸 Preview
 
-<img width="1896" height="967" alt="image" src="https://github.com/user-attachments/assets/8a7b98a6-833b-4d99-ad17-1294028ef49a" />
+<img width="1892" height="1078" alt="image" src="https://github.com/user-attachments/assets/5e57edaf-9546-4fa5-b34d-b38682fe621c" />
 
 ---
 
