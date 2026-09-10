@@ -11,15 +11,22 @@ import {
   FaJava,
   FaPython,
   FaAws,
+  FaBug,
 } from "react-icons/fa";
 
 import {
   SiJavascript,
   SiExpress,
   SiMongodb,
+  SiSelenium,
+  SiPostman,
+  SiMysql,
 } from "react-icons/si";
 
 const skills = [
+  { name: "Java", icon: <FaJava />, color: "#EA2D2E" },
+  { name: "Selenium Automation", icon: <SiSelenium />, color: "#43B02A" },
+  { name: "Manual Testing", icon: <FaBug />, color: "#FF6B6B" },
   { name: "React.js", icon: <FaReact />, color: "#61DBFB" },
   { name: "JavaScript", icon: <SiJavascript />, color: "#F7DF1E" },
   { name: "HTML5", icon: <FaHtml5 />, color: "#E34F26" },
@@ -27,11 +34,12 @@ const skills = [
   { name: "Bootstrap", icon: <FaBootstrap />, color: "#7952B3" },
   { name: "Node.js", icon: <FaNodeJs />, color: "#68A063" },
   { name: "Express.js", icon: <SiExpress />, color: "#FFFFFF" },
+  { name: "MySQL", icon: <SiMysql />, color: "#4479A1" },
   { name: "MongoDB", icon: <SiMongodb />, color: "#47A248" },
   { name: "Git", icon: <FaGit />, color: "#F05032" },
   { name: "Python", icon: <FaPython />, color: "#3776AB" },
   { name: "AWS", icon: <FaAws />, color: "#FF9900" },
-  { name: "Java", icon: <FaJava />, color: "#EA2D2E" },
+  { name: "Postman API", icon: <SiPostman />, color: "#FF6C37" },
 ];
 
 const Skills = () => {

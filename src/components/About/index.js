@@ -13,13 +13,12 @@ const About = () => {
         <h2>About Me</h2>
 
         <p>
-          I'm <span>Sai Prathap</span>, a passionate MERN Stack Developer with knowledge of Python and Cloud Technologies (AWS),
-           dedicated to building modern, scalable, and user-friendly applications. I enjoy developing full-stack web solutions using React.js, Node.js,
-            Express.js, MongoDB, JavaScript, and Python. I continuously enhance my technical skills by working on real-world projects and exploring 
-            cloud-based technologies. With strong problem-solving abilities and a focus on clean, maintainable code, I strive to deliver efficient and 
-            high-quality software solutions. I am eager to contribute to innovative teams, learn emerging technologies, and grow as a software engineer 
-            while creating impactful digital experiences.
-
+         I’m <span>Sai Prathap</span>, a passionate MERN Stack Developer with knowledge of Java, Cloud Technologies (AWS), Selenium Automation Testing, and Manual Testing.
+          I am dedicated to building modern, scalable, and user-friendly applications while ensuring software quality and reliability. I enjoy developing full-stack web 
+          solutions using React.js, Node.js, Express.js, MongoDB, JavaScript, and Java, along with performing functional and automation testing using Selenium.
+           I have a good understanding of Agile/Scrum methodologies, software testing processes, and defect identification. 
+           With strong problem-solving abilities and a focus on clean, maintainable code and quality-driven development, I strive to deliver efficient and reliable software solutions.
+            I am eager to contribute to innovative teams, learn emerging technologies, and grow as a software engineer while creating impactful digital experiences.
         </p>
 
         <div className="about-cards">

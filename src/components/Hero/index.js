@@ -23,13 +23,15 @@ const Hero = () => {
 
           <TypeAnimation
             sequence={[
-              "MERN Full Stack Developer",
+              "Java Developer",
               2000,
-              "Frontend Developer",
+              "Selinium Automation Tester",
+              2000,
+              "MERN Full Stack Developer",
               2000,
               "React Developer",
               2000,
-              "Software Engineer",
+              "Software Testing Engineer",
               2000,
             ]}
             wrapper="h2"
@@ -38,10 +40,10 @@ const Hero = () => {
           />
 
           <p className="hero-description">
-            Passionate Frontend Developer with strong knowledge of
-            React.js, JavaScript, HTML, CSS, Java, and REST APIs.
-            I enjoy building clean, responsive, and user-friendly
-            web applications.
+            Passionate Frontend Developer with knowledge of React.js, JavaScript, HTML, CSS, Java, and REST APIs, along with Selenium Automation Testing and Manual Testing.
+             Familiar with Agile/Scrum methodologies and focused on building responsive, user-friendly, and high-quality applications.
+
+
           </p>
 
           <div className="hero-buttons">

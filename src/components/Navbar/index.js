@@ -11,7 +11,10 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
+        <Link to="home" smooth={true} duration={500} spy={true} offset={-70}>
         <span>Sai Prathap</span> Pulikodi
+        </Link>
+        
       </div>
 
       <ul className={menuOpen ? "nav-links active" : "nav-links"}>
