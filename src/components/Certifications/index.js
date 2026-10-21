@@ -9,6 +9,13 @@ import react from "../../assets/certificates/React JS.png";
 
 const certificates = [
   {
+    title: "MERN Stack Development",
+    organization: "NxtWave",
+    image: MERN,
+    date: "2025",
+    link: "https://certificates.ccbp.in/intensive/irc?id=AEJ3LFZ6XW",
+  },
+  {
     title: "Python Programming",
     organization: "NxtWave",
     image: Python,
@@ -21,13 +28,6 @@ const certificates = [
     image: react,
     date: "2025",
     link: "https://certificates.ccbp.in/intensive/react-js?id=CVUOBBQFBO",
-  },
-  {
-    title: "MERN Stack Development",
-    organization: "NxtWave",
-    image: MERN,
-    date: "2025",
-    link: "https://certificates.ccbp.in/intensive/irc?id=AEJ3LFZ6XW",
   },
 //   {
 //     title: "AWS Cloud Foundations",
