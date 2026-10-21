@@ -16,18 +16,17 @@ const certificates = [
     link: "https://certificates.ccbp.in/intensive/irc?id=AEJ3LFZ6XW",
   },
   {
-    title: "Python Programming",
-    organization: "NxtWave",
-    image: Python,
-    date: "2024",
-    link: "https://certificates.ccbp.in/intensive/programming-foundations?id=AWTSBZMCFQ",
-  },
-  {
     title: "React JS",
     organization: "NxtWave",
     image: react,
     date: "2025",
     link: "https://certificates.ccbp.in/intensive/react-js?id=CVUOBBQFBO",
+  },{
+    title: "Python Programming",
+    organization: "NxtWave",
+    image: Python,
+    date: "2024",
+    link: "https://certificates.ccbp.in/intensive/programming-foundations?id=AWTSBZMCFQ",
   },
 //   {
 //     title: "AWS Cloud Foundations",
